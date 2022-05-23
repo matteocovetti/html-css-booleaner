@@ -1,4 +1,4 @@
-/* header banner e logo */
+/* header banner-tabella e logo */
 .banner{
     background-color: #6da5fa;
 }
@@ -7,7 +7,7 @@
 }
 /* section titolo e sottotitolo */
 .span-blu{
-    color: blue;
+    color: rgb(0, 225, 255);
 }
 #autore{
     color: gray;
