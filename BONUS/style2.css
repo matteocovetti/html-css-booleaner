@@ -28,3 +28,22 @@
 .colore-tabella{
     background-color: #bdd4f7;
 }
+/* footer */
+#footer-pubblicità{
+    color: gray;
+    font-size: 10px;
+}
+.pubblicità{
+    color: black;
+}
+.contenitore{
+    position: relative;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.top{
+    position: absolute;
+    top: 0px;
+    left: 25px;
+}
