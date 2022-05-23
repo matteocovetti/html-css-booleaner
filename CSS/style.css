@@ -17,3 +17,10 @@
     font-size: 10px;
 }
 /* section foto e descrizione */
+.descrizione-foto{
+    font-size: 10px;
+}
+/* section articolo */
+.evidenziati{
+    background-color: yellow;
+}
