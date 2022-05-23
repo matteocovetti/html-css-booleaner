@@ -1,9 +1,15 @@
-/* header banner-tabella e logo */
+/* header banner e logo */
 .banner{
     background-color: #6da5fa;
+    background-size: 80px;
+    background-image: url(imgbonus/pattern.png);
+    height: 50px;
+    
 }
 #logo-banner{
     height: 30px;
+    position: relative;
+    top: 20px;
 }
 /* section titolo e sottotitolo */
 .span-blu{
@@ -25,13 +31,16 @@
     background-color: yellow;
 }
 /* sezione tabella */
+.colore-head{
+    background-color: #6da5fa;
+}
 .colore-tabella{
     background-color: #bdd4f7;
 }
 /* footer */
 #footer-pubblicità{
     color: gray;
-    font-size: 10px;
+    font-size: 30px;
 }
 .pubblicità{
     color: black;
