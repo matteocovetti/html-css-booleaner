@@ -1,0 +1,19 @@
+/* header banner e logo */
+.banner{
+    background-color: blue;
+}
+#logo-banner{
+    height: 30px;
+}
+/* section titolo e sottotitolo */
+.span-blu{
+    color: blue;
+}
+#autore{
+    color: gray;
+    font-size: 15px;
+}
+#data{
+    font-size: 10px;
+}
+/* section foto e descrizione */
